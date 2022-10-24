@@ -12,12 +12,8 @@
 - Assíncrono e promises;
 - Orientação a objetos;
 - Classes e muito mais.
-## Demonstração
-
-
 
 
 ## Stack utilizada
 
 **Back-end:** Node
-
